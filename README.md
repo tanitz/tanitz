@@ -1,4 +1,4 @@
-Hi 👋 My name is KPhukritz
+KPhukritz
 ==========================
 
 * ✉️  You can contact me at [tanitz.asd@gmail.com](mailto:tanitz.asd@gmail.com)
